@@ -30,7 +30,7 @@ ul {
 
 
 .header-item h1 {
-    color: rgb(109, 50, 125);
+    color: #443e79;
     /* font-family: 'Dancing Script', cursive; */
     font-style: normal;
     font-weight: 700;
@@ -41,7 +41,7 @@ ul {
 }
 
 .header-item h2 {
-    color: rgb(109, 50, 125);
+    color: #443e79;
     /* font-family: 'Dancing Script', cursive; */
     font-style: normal;
     font-weight: 700;
@@ -80,6 +80,7 @@ img {
 
 .text span {
     font-size: 35px;
+    color: #443e79;
 }
 
 .wrapper {
@@ -120,7 +121,7 @@ img {
         cursive; */
     font-style: normal;
     font-weight: bold;
-    color: rgb(69, 64, 64);
+    color: #443e79;
     font-size: 30px;
     padding: 20px;
     text-align: center;
@@ -137,7 +138,7 @@ img {
 }
 
 .futter-item span {
-    color: #17651f;
+    color: #443e79;
 }
 
 .info {
@@ -149,12 +150,11 @@ img {
 }
 
 .info-item h2 {
-    color: #555454;
+    color: #443e79;
     text-align: center;
-    font-weight: bold;
     /* font-family: 'Dancing Script',
         cursive; */
     font-size: 30px;
     padding-bottom: 15px;
-    
+
 }

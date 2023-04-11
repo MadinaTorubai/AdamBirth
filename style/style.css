@@ -20,7 +20,7 @@ ul {
 }
 
 .blocks-wrapper {
-    background: url(../image/winter-7719701_1920.jpg) 100% 50%no-repeat;
+    background: url(../image/winter-7719701_1920.jpg) 5% 50%no-repeat;
 }
 
 
@@ -30,7 +30,7 @@ ul {
 
 
 .header-item h1 {
-    color: rgb(6, 97, 97);
+    color: rgb(7, 114, 114);
     font-family: 'Dancing Script', cursive;
     font-style: normal;
     font-weight: 700;
@@ -51,16 +51,21 @@ img {
 }
 
 .text-block {
-    background: url(../image/background-7658514_1920.jpg) 50% 50% no-repeat;
-    /* background-color: #EDF2EC; */
+    background: url(../image/lines-6975227_1920.jpg) 76% 4% no-repeat;
+
 }
 
 .text p {
     padding: 20px;
     font-size: 30px;
     line-height: 50px;
-    color: #faf3f3;
+    color: #36123f;
     text-align: center;
+
+}
+
+.text span {
+    font-size: 35px;
 }
 
 .wrapper {
@@ -94,14 +99,8 @@ img {
 
 
 .futter {
-    background: url(../image/winter-7719701_1920.jpg) 100% no-repeat;
+    background: url(../image/monstera-7205622_1920.jpg) 91% 10% no-repeat;
     padding-bottom: 25px;
-}
-
-.blocks {
-    display: flex;
-    justify-content: space-between;
-    padding-left: 15px;
 }
 
 .futter-info h4 {
@@ -110,9 +109,18 @@ img {
     font-style: normal;
     font-weight: 400;
     color: rgb(69, 64, 64);
-    font-size: 25px;
+    font-size: 30px;
     padding: 15px;
     text-align: center;
+}
+
+.futter-item {
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 40px;
+    color: rgb(69, 64, 64);
+
 }
 
 .futter-item span {
@@ -123,17 +131,8 @@ img {
     color: rgb(6, 97, 97);
 }
 
-.blocks p {
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 25px;
-
-    color: rgb(9, 29, 47);
-
-}
-
 .info {
-    background: url(../image/sky-7630197_1920.png) 50% 50% no-repeat;
+    background: url(../image/clouds-7728399_1920.jpg) 100% 10% no-repeat;
 }
 
 .info-item {
@@ -141,7 +140,7 @@ img {
 }
 
 .info-item h2 {
-    color: beige;
+    color: #555454;
     text-align: center;
     font-family: 'Dancing Script',
         cursive;

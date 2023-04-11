@@ -1,2 +1,1 @@
-https://MadinaTorubai
-.github.io/AdamBirth
+https://MadinaTorubai.github.io/AdamBirth

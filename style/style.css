@@ -25,7 +25,7 @@ ul {
 
 
 .header-item {
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 
@@ -37,7 +37,7 @@ ul {
     font-size: 45px;
     line-height: 50px;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 
@@ -74,7 +74,7 @@ img {
 
 
 .main {
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 .main h2 {
@@ -96,8 +96,6 @@ img {
     margin: 100px;
 }
 
-
-
 .futter {
     background: url(../image/monstera-7205622_1920.jpg) 91% 10% no-repeat;
     padding-bottom: 25px;
@@ -107,10 +105,10 @@ img {
     font-family: 'Dancing Script',
         cursive;
     font-style: normal;
-    font-weight: 400;
+    font-weight: bold;
     color: rgb(69, 64, 64);
     font-size: 30px;
-    padding: 15px;
+    padding: 20px;
     text-align: center;
 }
 
@@ -124,11 +122,11 @@ img {
 }
 
 .futter-item span {
-    color: rgb(6, 97, 97);
+    color: rgb(114, 57, 124);
 }
 
 .futter-item-kz span {
-    color: rgb(6, 97, 97);
+    color: rgb(114, 57, 124);
 }
 
 .info {
@@ -142,6 +140,7 @@ img {
 .info-item h2 {
     color: #555454;
     text-align: center;
+    font-weight: bold;
     font-family: 'Dancing Script',
         cursive;
     font-size: 25px;

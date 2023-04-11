@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+}
+
+.container {
+    max-width: 380px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.blocks-wrapper {
+    background: url(../image/winter-7719701_1920.jpg) 100% 50%no-repeat;
+}
+
+
+.header-item {
+    padding-bottom: 20px;
+}
+
+
+.header-item h1 {
+    color: rgb(6, 97, 97);
+    font-family: 'Dancing Script', cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+img {
+    width: 300px;
+    margin: auto;
+    border: 2px solid rgb(6, 97, 97);
+    border-radius: 15px;
+    display: block;
+
+}
+
+.text-block {
+    background: url(../image/background-7658514_1920.jpg) 50% 50% no-repeat;
+    /* background-color: #EDF2EC; */
+}
+
+.text p {
+    padding: 20px;
+    font-size: 30px;
+    line-height: 50px;
+    color: #faf3f3;
+    text-align: center;
+}
+
+.wrapper {
+    background: url(../image/clouds-7728399_1920.jpg) no-repeat;
+}
+
+
+.main {
+    padding-bottom: 20px;
+}
+
+.main h2 {
+    font-family: 'Dancing Script', cursive;
+    font-style: normal;
+    font-weight: 400;
+    color: #717171;
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+
+.main span {
+    color: #a4330d;
+    font-size: 50px;
+    border: 3px solid #0b0a0a;
+    border-radius: 50%;
+    padding: 0 13px;
+    margin: 100px;
+}
+
+
+
+.futter {
+    background: url(../image/winter-7719701_1920.jpg) 100% no-repeat;
+    padding-bottom: 25px;
+}
+
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+}
+
+.futter-info h4 {
+    font-family: 'Dancing Script',
+        cursive;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(69, 64, 64);
+    font-size: 25px;
+    padding: 15px;
+    text-align: center;
+}
+
+.futter-item span {
+    color: rgb(6, 97, 97);
+}
+
+.futter-item-kz span {
+    color: rgb(6, 97, 97);
+}
+
+.blocks p {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: rgb(9, 29, 47);
+
+}
+
+.info {
+    background: url(../image/sky-7630197_1920.png) 50% 50% no-repeat;
+}
+
+.info-item {
+    padding: 20px;
+}
+
+.info-item h2 {
+    color: beige;
+    text-align: center;
+    font-family: 'Dancing Script',
+        cursive;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
